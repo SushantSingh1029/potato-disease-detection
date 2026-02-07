@@ -23,7 +23,8 @@ The trained model is deployed as a Streamlit web application where users can upl
 - NumPy
 - Streamlit
 - Pillow
-
+🌟 Live Demo
+👉 Live App:https://potato-disease-detection-tb62xbbor4j3dzggw52qdk.streamlit.app/
 ## 🚀 How to Run Locally
 
 ```bash
